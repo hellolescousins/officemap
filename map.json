@@ -1004,8 +1004,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":321,
-         "source":"..\/..\/..\/Downloads\/test1.tsx"
+         "image":"..\/..\/..\/Downloads\/pokemon_tileset_from_public_tiles_32x32_by_chaoticcherrycake_dab2byf.png",
+         "imageheight":20832,
+         "imagewidth":256,
+         "margin":0,
+         "name":"test1",
+         "spacing":0,
+         "tilecount":5208,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
