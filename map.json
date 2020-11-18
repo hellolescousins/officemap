@@ -89,9 +89,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/skribbl.io\/?DH57o54jeHZb"
+                 "value":"SkribleCTCousins"
                 }],
          "type":"tilelayer",
          "visible":true,
